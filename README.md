@@ -1,5 +1,5 @@
 <!-- <img align=“right” alt=“Coding” width=“400” src=“https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif”> -->
-
+![logo](https://github.com/MelikaRanaei/MelikaRanaei/blob/main/Graduated%20in%20computer%20science.png)
 <h1 align="center">Hi 👋, I'm Melika Ranaei</h1>
 <h3 align="center">I'm a machine learning and deep learning enthusiast.</h3>
 
