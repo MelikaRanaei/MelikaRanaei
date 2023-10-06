@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👋, I'm Melika Ranaei</h1>
-<h3 align="center">I'm a machine learning and deep learning enthusiast.</h3>
 <!-- <img align=“right” alt=“Coding” width=“400” src=“https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif”> -->
 
-
-
+<h1 align="center">Hi 👋, I'm Melika Ranaei</h1>
+<h3 align="center">I'm a machine learning and deep learning enthusiast.</h3>
 
 - 🔭 I’m currently working on **a few start-up ideas.**
 
@@ -23,4 +21,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=melikaranaei&show_icons=true&locale=en&layout=compact" alt="melikaranaei" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=melikaranaei&show_icons=true&locale=en" alt="melikaranaei" /></p>
-
