@@ -3,7 +3,7 @@
 <!-- <img align=“right” alt=“Coding” width=“400” src=“https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif”> -->
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=melikaranaei&label=Profile%20views&color=0e75b6&style=flat" alt="melikaranaei" /> </p>
+
 
 - 🔭 I’m currently working on **a few start-up ideas.**
 
